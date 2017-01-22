@@ -1,5 +1,3 @@
-# simple-neural-network
-
 #Single layer feedforward neural network example
 This is a simple implementation of neural network in NodeJS.  
 
