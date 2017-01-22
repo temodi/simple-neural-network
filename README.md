@@ -1,5 +1,5 @@
 #Single layer feedforward neural network example
-This is a simple implementation of neural network in NodeJS.  
+This is a simple implementation of neural network (perceptron) in NodeJS.  
 
 ##Overview
 
